@@ -1,0 +1,57 @@
+/* Zachary Landers style sheet */
+#index{
+        background-color: red;
+
+}
+
+h1{
+  text-align:center;
+  background-color: white;
+  text-decoration: underline;
+}
+p{
+  text-align: center;
+  font-size:25px;
+}
+img{
+  width:100px;
+  height:100px;
+}
+th{
+  color: purple;
+  font-size: 25px;
+  font-family: cursive;
+}
+table{
+    border-style:groove;
+}
+td{
+  border-style:solid;
+}
+tr{
+
+}
+hr{
+   border-color: blue;
+}
+a:link{
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: pink;
+}
+ol{
+  border-style:solid;
+  border-color:orange;
+}
+li{
+  font-size: 20px;
+  font-style: oblique;
+}
